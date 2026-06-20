@@ -11,7 +11,7 @@ interface Developer {
 }
 
 const me: Developer = {
-    name: "Robinson Honour",
+    name: "Rabiu Abdulazeez",
     experience: "2+ years",
     focus: ["Web Development", "Shopify Development", "DevOps", "robotics"],
     location: "Nigeria",
