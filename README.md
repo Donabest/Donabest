@@ -39,13 +39,9 @@ const me: Developer = {
 
 ---
 
-### GitHub Stats
+### Stats
 
-<div align="center">
-
-![Rabiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donabest&show_icons=true&theme=dark&hide_border=true&bg_color=0C0D0F&title_color=F2A33D&icon_color=F2A33D&text_color=F3F1ED)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Donabest&theme=dark&hide_border=true&background=0C0D0F&ring=F2A33D&fire=F2A33D&currStreakLabel=F2A33D)
+<div align="start">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donabest&layout=compact&theme=dark&hide_border=true&bg_color=0C0D0F&title_color=F2A33D&text_color=F3F1ED)
 
