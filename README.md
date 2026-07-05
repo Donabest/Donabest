@@ -22,6 +22,7 @@ const me: Developer = {
 ###  What I'm working on
 
 - Learning backend: Node.js + Express + PostgreSQL+mongoDb
+- buiding settled
 
 ---
 
