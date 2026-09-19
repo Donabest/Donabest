@@ -13,7 +13,7 @@ interface Developer {
 const me: Developer = {
     name: "Rabiu Abdulazeez",
     experience: "2+ years",
-    focus: ["Web Development", "Shopify Development", "DevOps", "robotics"],
+    focus: ["Web Development", "Shopify Development", "DevOps", "engineer"],
     location: "Nigeria",
 };
 ```
@@ -21,7 +21,6 @@ const me: Developer = {
 
 ###  What I'm working on
 
-- Learning backend: Node.js + Express + PostgreSQL+mongoDb
 - buiding settled
 
 ---
